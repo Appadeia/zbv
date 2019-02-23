@@ -50,7 +50,6 @@ namespace Zbv {
                 if (Zbv.Config.get_os() == Zbv.Version.TUMBLEWEED) {
                     if (bin.repository.contains("Tumbleweed")) {
                         print("\n" + bin.name + " / " + bin.project + "\n\n");
-                        print("\n" + bin.)
                     }
                 }
             }   
